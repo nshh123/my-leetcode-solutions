@@ -1,4 +1,5 @@
-# my-leetcode-solutions
+# My-leetcode-solutions
+*A collection of my solutions on leetcode*
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

@@ -1,5 +1,5 @@
 # My-leetcode-solutions
-*A collection of my solutions on leetcode!*
+*A collection of my solutions on leetcode! Language used --> Python 3, Focus: Dynamic Programming*
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array

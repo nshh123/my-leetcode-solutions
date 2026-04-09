@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |

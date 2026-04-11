@@ -10,6 +10,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

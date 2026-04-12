@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## String
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nshh123/my-leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nshh123/my-leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->

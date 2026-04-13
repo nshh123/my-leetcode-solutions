@@ -7,6 +7,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/nshh123/my-leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |

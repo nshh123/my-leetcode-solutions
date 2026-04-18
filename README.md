@@ -15,6 +15,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nshh123/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [3488-closest-equal-element-queries](https://github.com/nshh123/my-leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nshh123/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nshh123/my-leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+## Math
+|  |
+| ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nshh123/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nshh123/my-leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nshh123/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nshh123/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nshh123/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nshh123/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/nshh123/my-leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nshh123/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nshh123/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->

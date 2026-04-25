@@ -14,6 +14,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nshh123/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/nshh123/my-leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/nshh123/my-leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nshh123/my-leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nshh123/my-leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nshh123/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/nshh123/my-leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nshh123/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nshh123/my-leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
@@ -86,4 +90,8 @@
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/nshh123/my-leetcode-solutions/tree/master/2615-sum-of-distances) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->

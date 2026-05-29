@@ -15,6 +15,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nshh123/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/nshh123/my-leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nshh123/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/nshh123/my-leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nshh123/my-leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -72,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nshh123/my-leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nshh123/my-leetcode-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nshh123/my-leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |

@@ -12,6 +12,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nshh123/my-leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nshh123/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/nshh123/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nshh123/my-leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nshh123/my-leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nshh123/my-leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/nshh123/my-leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2126-destroying-asteroids](https://github.com/nshh123/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nshh123/my-leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/nshh123/my-leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nshh123/my-leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Simulation
@@ -84,6 +86,7 @@
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nshh123/my-leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/nshh123/my-leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nshh123/my-leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
